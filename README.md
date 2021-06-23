@@ -1,6 +1,6 @@
 # Computer Vision Assignments
 
-컴퓨터비전(55381) 강의 Assignment의 Code를 업로드하는 Repository입니다.
+2021-1학기 컴퓨터비전(55381) 강의 Assignment의 Code를 업로드하는 Repository입니다.
 
 ### 🙋‍♂️ Our Team
 - **유승욱** [소프트웨어학부 3학년, bokju128_at_cau.ac.kr]
